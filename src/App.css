@@ -123,6 +123,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  scroll-margin-top: 100px; 
 }
 .about-background-image-container {
   position: absolute;
@@ -169,6 +170,7 @@ nav {
 }
 .contact-page-wrapper h1 {
   max-width: 900px !important;
+  margin-top: 50px;
 }
 .contact-page-wrapper {
   display: flex;
@@ -262,6 +264,7 @@ nav {
 }
 .work-section-wrapper {
   margin-top: 15rem;
+  scroll-margin-top: 100px; 
 }
 .work-section-top p {
   text-align: center;
